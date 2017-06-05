@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NBLAnimationDemo</string>
+    <string name="scale">ScaleAnimation(缩放)</string>
+    <string name="alpha">AlphaAnimation(透明度)</string>
+    <string name="rotate">RotateAnimation(旋转)</string>
+    <string name="translate">TranslateAnimation(位移)</string>
+    <string name="groupA">组合A</string>
+    <string name="groupB">组合B</string>
+    <string name="flicker">闪烁</string>
+    <string name="shake">抖动</string>
+    <string name="change">Activity切换动画</string>
+    <string name="layout">布局动画</string>
+    <string name="frameA">逐帧动画A</string>
+    <string name="start_frameB">开始逐帧动画B</string>
+    <string name="stop_frameB">停止逐帧动画B</string>
+</resources>
